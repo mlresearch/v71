@@ -22,7 +22,7 @@ author:
 - given: Tanveer
   family: Faruquie
 - given: Di
-  family: W Xu
+  family: Xu
 date: 2018-01-07
 address: 
 publisher: PMLR
