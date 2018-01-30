@@ -23,6 +23,14 @@ cycles: false
 editor:
 - given: Archana
   family: Anandakrishnan
+- given: Senthil
+  family: Kumar
+- given: Alexander
+  family: Statnikov
+- given: Tanveer
+  family: Faruquie
+- given: Di
+  family: Xu
 title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the KDD 2017: Workshop on Anomaly Detection in Finance on 14 August 2017
