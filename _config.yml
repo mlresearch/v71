@@ -13,6 +13,8 @@ year: '2017'
 start: 2017-08-14
 end: 2017-08-14
 url: http://proceedings.mlr.press
+author:
+  name: PMLR
 location: Halifax, Nova Scotia, Canada
 published: 2018-01-07
 layout: proceedings
